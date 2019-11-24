@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Nov 24 14:01:01 CST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-016e-9f00-d0b4-000016175170 
+on database directory /home/g5/Downloads/SoftwareEngineeringDBDemo-master/cowdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2c13da15 
+Loaded from file:/home/g5/.m2/repository/org/apache/derby/derby/10.14.1.0/derby-10.14.1.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.4+10-LTS
+user.dir=/home/g5/Downloads/SoftwareEngineeringDBDemo-master
+os.name=Linux
+os.arch=amd64
+os.version=4.9.0-8-amd64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
